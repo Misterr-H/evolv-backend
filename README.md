@@ -59,7 +59,7 @@ PATCH https://evolv-fit-backend.herokuapp.com/api/v1/users/update/:id
 Body contains the parameters to be updated for given document ID.
 ## Level 3 - Algorithm
 I've created a POST API to get List of Food Items for a given calorie.  
-POST http://localhost:3000/api/v1/algorithm/select
+POST https://evolv-fit-backend.herokuapp.com/api/v1/algorithm/select
 #### Body Parameters
 calories - Number (required) 
 
