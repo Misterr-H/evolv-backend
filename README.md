@@ -1,5 +1,4 @@
 # Evolv-Backend
-Here's the code for assignment done by Himanshu as a part of Hiring Process for Evolv-Fit interns
 
 ## Live API
 I've hosted this code on Heroku and made all APIs live available at https://evolv-fit-backend.herokuapp.com/api/v1/
